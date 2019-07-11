@@ -426,6 +426,17 @@ h1{
     display:flex;
     flex-direction:column;
   }
+  #pic6{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+      -moz-transform: scale(-1, -1);
+      -o-transform: scale(-1, -1);
+      -webkit-transform: scale(-1, -1);
+      transform: scale(-1, -1);
+  }
+
   .row3{
     display:flex;
     flex-direction:column;
@@ -434,29 +445,174 @@ h1{
     display:flex;
     flex-direction:column;
   }
+  #pic10{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
+  #pic12{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
   .row5{
     display:flex;
     flex-direction:column;
   }
+  #pic13{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
+  #pic14{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
+
   .row6{
     display:flex;
     flex-direction:column;
+  }
+  #pic17{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
+  #pic18{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
   }
   .row7{
     display:flex;
     flex-direction:column;
   }
+  #pic19{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
+  #pic21{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
   .row8{
     display:flex;
     flex-direction:column;
   }
+  #pic22{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
+  #pic24{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
+
   .row9{
     display:flex;
     flex-direction:column;
   }
+  #pic25{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
+  #pic27{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
+  }
   .row10{
     display:flex;
     flex-direction:column;
+  }
+  #pic29{
+    width: 350px;
+    height:350px;
+    object-fit:cover;
+    margin:5px;
+    transform:          rotate(90deg);
+  -ms-transform:      rotate(90deg);
+  -moz-transform:     rotate(90deg);
+  -webkit-transform:  rotate(90deg);
+  -o-transform:       rotate(90deg);
   }
   .row11{
     display:flex;
