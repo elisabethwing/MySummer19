@@ -1,12 +1,13 @@
 
 body{
-  background-color: #edf1f7;
+  background-color: #cddefa;
+  color: #2c4670;
 }
 
 h1{
   font-family: 'Playfair Display SC', serif;
   text-align:center;
-  color:#3d4552;
+  color: #2c4670;
   font-size: 50px;
 }
 
