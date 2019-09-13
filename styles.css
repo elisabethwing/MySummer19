@@ -5,6 +5,7 @@ body{
   border: 1px dashed;
   border-color: #2c4670;
   border-padding: 10px;
+  margin: 5px;
 }
 
 h1{
@@ -12,17 +13,45 @@ h1{
   text-align:center;
   color: #2c4670;
   font-size: 50px;
+  display: flex;
+  justify-content: center;
 }
 
 #ig{
   display:flex;
   justify-content:flex-end;
+  margin: 0px 10px 0px 0px;
   font-family: Optima;
-  margin: 0px 100px 10px 0px;
   color:#2c4670;
   /* border: 1px dashed;
   border-color: #f2c12e;
   border-padding: 0px; */
+}
+
+#flotop{
+  width: 50px;
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+
+.headerflower{
+  display: flex;
+  flex-wrap:wrap;
+  display: flex;
+  justify-content: center;
+}
+#flower1{
+  width: 150px;
+  padding: 0px;
+  border: 0px;
+  margin:0px;
+}
+
+#flower2{
+  width: 150px;
+  padding: 0px;
+  border: 0px;
+  margin:0px;
 }
 
 .row1{
@@ -34,18 +63,24 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
 }
 #pic2{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
 #pic3{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
 }
 
 .row2{
@@ -57,22 +92,25 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
 #pic5{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
 }
 #pic6{
   width: 350px;
   height:350px;
   object-fit:cover;
+  border: 3px dashed;
+  border-color: #f2f4f7;
   margin:5px;
-    -moz-transform: scale(-1, -1);
-    -o-transform: scale(-1, -1);
-    -webkit-transform: scale(-1, -1);
-    transform: scale(-1, -1);
+
 }
 
 .row3{
@@ -84,18 +122,24 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
 }
 #pic8{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
 #pic9{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
 }
 
 .row4{
@@ -107,6 +151,8 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -118,12 +164,16 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
 }
 #pic12{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -140,6 +190,8 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -149,19 +201,25 @@ h1{
 #pic14{
   width: 350px;
   height:350px;
+  object-position: 30% -.5%;
   object-fit:cover;
   margin:5px;
-  transform:          rotate(90deg);
--ms-transform:      rotate(90deg);
--moz-transform:     rotate(90deg);
--webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+  border: 3px dashed;
+  border-color: #f2f4f7;
+
 }
 #pic15{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
+  transform:          rotate(90deg);
+-ms-transform:      rotate(90deg);
+-moz-transform:     rotate(90deg);
+-webkit-transform:  rotate(90deg);
+-o-transform:       rotate(90deg);
 }
 
 .row6{
@@ -173,12 +231,17 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
+  object-position: -0.001% 50%;
 }
 #pic17{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -190,6 +253,8 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -206,6 +271,8 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -217,12 +284,16 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
 #pic21{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -239,6 +310,8 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -250,12 +323,21 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
+  transform:          rotate(90deg);
+-ms-transform:      rotate(90deg);
+-moz-transform:     rotate(90deg);
+-webkit-transform:  rotate(90deg);
+-o-transform:       rotate(90deg);
 }
 #pic24{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -272,6 +354,8 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -283,12 +367,16 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
 #pic27{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
   transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
@@ -305,6 +393,8 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
 
 #pic29{
@@ -312,17 +402,16 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
-  transform:          rotate(90deg);
--ms-transform:      rotate(90deg);
--moz-transform:     rotate(90deg);
--webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+  border: 3px dashed;
+  border-color: #fce692;
 }
 #pic30{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
 
 .row11{
@@ -334,18 +423,24 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
 }
 #pic32{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
 #pic33{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
 }
 
 .row12{
@@ -357,19 +452,53 @@ h1{
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
 #pic35{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #fce692;
 }
 #pic37{
   width: 350px;
   height:350px;
   object-fit:cover;
   margin:5px;
+  border: 3px dashed;
+  border-color: #f2f4f7;
 }
+
+.bottom{
+  display: flex;
+  justify-content: center;
+}
+
+#flo1{
+  width: 150px;
+}
+#flo2{
+  width: 150px;
+}
+#flo3{
+  width: 150px;
+}
+#flo4{
+  width: 150px;
+}
+#flo5{
+  width: 150px;
+}
+#flo6{
+  width: 150px;
+}
+#flo7{
+  width: 150px;
+}
+
 
 @media screen and (max-width:1100px){
   .row1{
