@@ -554,6 +554,29 @@ h1{
 }
 
 @media screen and (max-width:736px){
+  #flotop{
+    width: 50px;
+  }
+
+  .headerflower{
+    display: flex;
+    flex-wrap:wrap;
+    display: flex;
+    justify-content: center;
+  }
+  #flower1{
+    width: 150px;
+    padding: 0px;
+    border: 0px;
+    margin:0px;
+  }
+
+  #flower2{
+    width: 150px;
+    padding: 0px;
+    border: 0px;
+    margin:0px;
+  }
   .row1{
     display:flex;
     flex-direction:column;
