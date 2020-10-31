@@ -149,16 +149,16 @@ h1{
 }
 #pic10{
   width: 350px;
-  height:350px;
-  object-fit:cover;
+  height: 350px;
+  /* object-fit: cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #f2f4f7;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 #pic11{
   width: 350px;
@@ -171,15 +171,15 @@ h1{
 #pic12{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #f2f4f7;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 
 .row5{
@@ -189,15 +189,15 @@ h1{
 #pic13{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #fce692;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 #pic14{
   width: 350px;
@@ -212,15 +212,15 @@ h1{
 #pic15{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #fce692;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 
 .row6{
@@ -239,28 +239,28 @@ h1{
 #pic17{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #fce692;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 #pic18{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #f2f4f7;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 
 .row7{
@@ -270,15 +270,15 @@ h1{
 #pic19{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #fce692;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 #pic20{
   width: 350px;
@@ -291,15 +291,15 @@ h1{
 #pic21{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #fce692;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 
 .row8{
@@ -309,41 +309,41 @@ h1{
 #pic22{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #f2f4f7;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 #pic23{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #fce692;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 #pic24{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #f2f4f7;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 
 .row9{
@@ -353,15 +353,15 @@ h1{
 #pic25{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #fce692;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 #pic26{
   width: 350px;
@@ -374,15 +374,15 @@ h1{
 #pic27{
   width: 350px;
   height:350px;
-  object-fit:cover;
+  /* object-fit:cover; */
   margin:5px;
   border: 3px dashed;
   border-color: #fce692;
-  transform:          rotate(90deg);
+  /* transform:          rotate(90deg);
 -ms-transform:      rotate(90deg);
 -moz-transform:     rotate(90deg);
 -webkit-transform:  rotate(90deg);
--o-transform:       rotate(90deg);
+-o-transform:       rotate(90deg); */
 }
 
 .row10{
